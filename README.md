@@ -108,4 +108,5 @@ You will find the solution results in the C:\Training\0A008\02-Introduction_to_I
 
 ### Unit 7: Integrating data
 
+![Exercise 6_Unit 7_Phuong Dai Ngo (Liam) - N01427233 - Copy](https://user-images.githubusercontent.com/70437668/152671969-ed306c5f-11e3-44c3-a550-16b1ed380beb.jpg)
 
