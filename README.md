@@ -111,6 +111,10 @@ You will find the solution results in the C:\Training\0A008\02-Introduction_to_I
 
 ![Exercise 3 - Phuong Dai Ngo (Liam) - N01427233](https://user-images.githubusercontent.com/70437668/152672016-100caec7-6746-4a04-a4c9-e4b45f5215df.jpg)
 
+### Unit 5:
+
+![Exercise 4](https://user-images.githubusercontent.com/70437668/152672172-e105b3de-3b30-4644-9eab-4c69f676d7e9.jpg)
+
 ### Unit 6: Setting the unit of analysis
 
 ![Exercise 5 - Phuong Dai Ngo (Liam) - N01427233](https://user-images.githubusercontent.com/70437668/152669124-da7ebc72-bf70-4f74-8442-56263f73c670.jpg)
