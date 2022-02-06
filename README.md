@@ -102,5 +102,10 @@ Task 8. Exit IBM SPSS Modeler.
 
 You will find the solution results in the C:\Training\0A008\02-Introduction_to_IBM_SPSS_Modeler\Solutions folder.
 
+### Unit 6: Setting the unit of analysis
+
+![Exercise 5 - Phuong Dai Ngo (Liam) - N01427233](https://user-images.githubusercontent.com/70437668/152669124-da7ebc72-bf70-4f74-8442-56263f73c670.jpg)
+
+### Unit 7: Integrating data
 
 
