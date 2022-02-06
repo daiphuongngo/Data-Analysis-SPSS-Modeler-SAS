@@ -102,6 +102,15 @@ Task 8. Exit IBM SPSS Modeler.
 
 You will find the solution results in the C:\Training\0A008\02-Introduction_to_IBM_SPSS_Modeler\Solutions folder.
 
+
+### Unit 3: Introduction to data science using IBM SPSS Modeler
+
+![Exercise 2 - Phuong Dai Ngo (Liam) - N01427233](https://user-images.githubusercontent.com/70437668/152672046-ba0db92f-7ce6-4856-b393-547d2b5c8ccf.jpg)
+
+### Unit 4: Collecting initial data
+
+![Exercise 3 - Phuong Dai Ngo (Liam) - N01427233](https://user-images.githubusercontent.com/70437668/152672016-100caec7-6746-4a04-a4c9-e4b45f5215df.jpg)
+
 ### Unit 6: Setting the unit of analysis
 
 ![Exercise 5 - Phuong Dai Ngo (Liam) - N01427233](https://user-images.githubusercontent.com/70437668/152669124-da7ebc72-bf70-4f74-8442-56263f73c670.jpg)
