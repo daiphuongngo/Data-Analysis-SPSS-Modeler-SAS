@@ -124,7 +124,7 @@ You will find the solution results in the C:\Training\0A008\02-Introduction_to_I
 ![Exercise 6_Unit 7_Phuong Dai Ngo (Liam) - N01427233 - Copy](https://user-images.githubusercontent.com/70437668/152671969-ed306c5f-11e3-44c3-a550-16b1ed380beb.jpg)
 
 
-### Unit 9 Identifying relationships
+### Unit 9: Identifying relationships
 
 ![Gender by Response](https://user-images.githubusercontent.com/70437668/153743239-8b5e8e39-049a-4738-b3b0-90b22272d7a7.jpg)
 
@@ -137,4 +137,16 @@ You will find the solution results in the C:\Training\0A008\02-Introduction_to_I
 ![Recency by Response](https://user-images.githubusercontent.com/70437668/153743250-40244406-7936-46d4-a926-ae4170507b6b.jpg)
 
 ![Histogram](https://user-images.githubusercontent.com/70437668/153743251-4601d68b-d1ce-457b-b1cf-53f5fcdec887.jpg)
+
+### Unit 10: Introduction to modeling
+
+![Predictor Importance - Recency, Monetary Value, Frequency](https://user-images.githubusercontent.com/70437668/153743281-172ceee1-7c6b-49cf-bef1-876f40be5291.jpg)
+
+![In test Mailing - Accuracy](https://user-images.githubusercontent.com/70437668/153743285-59f552ec-0a99-4f7b-bf05-10d475a34cae.jpg)
+
+![Not In Test Mailing](https://user-images.githubusercontent.com/70437668/153743292-ea5b2430-404b-4574-b403-05e3e5d1b835.jpg)
+
+![3 Clusters](https://user-images.githubusercontent.com/70437668/153743294-2d61d3fb-b6a3-4b3e-be2d-4b3800147e0e.jpg)
+
+![View by Clusters](https://user-images.githubusercontent.com/70437668/153743297-99844732-8de5-4b57-a4a8-5af859547245.jpg)
 
