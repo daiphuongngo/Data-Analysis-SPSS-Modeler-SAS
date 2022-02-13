@@ -111,7 +111,7 @@ You will find the solution results in the C:\Training\0A008\02-Introduction_to_I
 
 ![Exercise 3 - Phuong Dai Ngo (Liam) - N01427233](https://user-images.githubusercontent.com/70437668/152672016-100caec7-6746-4a04-a4c9-e4b45f5215df.jpg)
 
-### Unit 5:
+### Unit 5: Understanding the data
 
 ![Exercise 4](https://user-images.githubusercontent.com/70437668/152672172-e105b3de-3b30-4644-9eab-4c69f676d7e9.jpg)
 
@@ -122,6 +122,20 @@ You will find the solution results in the C:\Training\0A008\02-Introduction_to_I
 ### Unit 7: Integrating data
 
 ![Exercise 6_Unit 7_Phuong Dai Ngo (Liam) - N01427233 - Copy](https://user-images.githubusercontent.com/70437668/152671969-ed306c5f-11e3-44c3-a550-16b1ed380beb.jpg)
+
+### Unit 8: Deriving and reclassifying fields
+
+![Dollar](https://user-images.githubusercontent.com/70437668/153744372-91d2280b-f574-49cb-82ea-7fff54d271bb.jpg)
+
+![Segment](https://user-images.githubusercontent.com/70437668/153744376-ba24b482-c37e-44ba-8989-1d63a917e2ad.jpg)
+
+![Bonus](https://user-images.githubusercontent.com/70437668/153744378-979aaa64-87c7-41ad-a265-341d07c217f1.jpg)
+
+![Gender](https://user-images.githubusercontent.com/70437668/153744381-2540027a-e338-4317-9cbc-30c4330327f9.jpg)
+
+![Season Born](https://user-images.githubusercontent.com/70437668/153744383-5653f930-d7c3-42bc-a2a5-e5ed9213b723.jpg)
+
+![OrderDate Year](https://user-images.githubusercontent.com/70437668/153744389-39eab22d-de14-4a3d-9b01-6b3223df409f.jpg)
 
 
 ### Unit 9: Identifying relationships
