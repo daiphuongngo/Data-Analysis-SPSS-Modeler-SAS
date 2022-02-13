@@ -123,3 +123,18 @@ You will find the solution results in the C:\Training\0A008\02-Introduction_to_I
 
 ![Exercise 6_Unit 7_Phuong Dai Ngo (Liam) - N01427233 - Copy](https://user-images.githubusercontent.com/70437668/152671969-ed306c5f-11e3-44c3-a550-16b1ed380beb.jpg)
 
+
+### Unit 9 Identifying relationships
+
+![Gender by Response](https://user-images.githubusercontent.com/70437668/153743239-8b5e8e39-049a-4738-b3b0-90b22272d7a7.jpg)
+
+![Distribution of Gender](https://user-images.githubusercontent.com/70437668/153743242-9aab2d3e-69e4-4eb7-858f-43937bcc5d4a.jpg)
+
+![Monetary by Response](https://user-images.githubusercontent.com/70437668/153743244-90ebf612-5a1e-48fe-adf2-4aed801053ad.jpg)
+
+![Frequency by Response](https://user-images.githubusercontent.com/70437668/153743246-3b68c6f1-2e77-4683-aa49-8671384e228f.jpg)
+
+![Recency by Response](https://user-images.githubusercontent.com/70437668/153743250-40244406-7936-46d4-a926-ae4170507b6b.jpg)
+
+![Histogram](https://user-images.githubusercontent.com/70437668/153743251-4601d68b-d1ce-457b-b1cf-53f5fcdec887.jpg)
+
